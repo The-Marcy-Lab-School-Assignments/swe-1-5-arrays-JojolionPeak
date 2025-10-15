@@ -20,6 +20,11 @@ const newArrayFullOf = (value, numOfValue) => {
 };
 
 const insertIntoMiddle = (arr, value) => {
+/*
+split - take array length and divide by 2 (round down)
+insert - .push into the first arr to go to the back
+join -.join the two arrays
+*/
 
 };
 
